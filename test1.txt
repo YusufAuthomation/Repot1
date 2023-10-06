@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5CC8-5118
+
+ Directory of C:\Users\NEW PC\Desktop\TOOLS
+
+05-Oct-2023  09:25 PM    <DIR>          .
+05-Oct-2023  09:25 PM    <DIR>          ..
+05-Oct-2023  06:34 PM    <DIR>          GIT
+05-Oct-2023  03:35 PM    <DIR>          JENKINS_HOME
+05-Oct-2023  09:25 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               4 Dir(s)  403,728,994,304 bytes free
